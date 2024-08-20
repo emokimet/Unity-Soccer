@@ -10,7 +10,7 @@ System Requirements:
 
 Operating System: Windows 10 or macOS High Sierra
 Processor: Intel Core i5 or AMD equivalent
-Memory: 8 GB RAM
+Memory: 2 GB RAM
 Graphics: NVIDIA GeForce GTX 1060 or AMD equivalent
 Storage: 1 GB available space
 Setup Instructions:
